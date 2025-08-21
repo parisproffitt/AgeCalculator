@@ -17,11 +17,11 @@ It is a Java program that uses user input to perform arithmetic calculations and
 4. Enter your full name and age in years when prompted.
 5. The program will display your formatted name and approximate age in minutes.
 
-## Notes
-- This project was completed using **BlueJ**.
-- All source code is written in **Java**.
-
 ## Sample Output
 Here’s a preview of the AgeCalculator program in action:
 
 ![AgeCalculator Screenshot](AgeCalculatorSS.png)
+
+## Notes
+- This project was completed using **BlueJ**.
+- All source code is written in **Java**.
