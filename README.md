@@ -20,3 +20,8 @@ It is a Java program that uses user input to perform arithmetic calculations and
 ## Notes
 - This project was completed using **BlueJ**.
 - All source code is written in **Java**.
+
+## Screenshot
+Here’s a preview of the AgeCalculator program in action:
+
+![AgeCalculator Screenshot](AgeCalculatorSS.png)
