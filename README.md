@@ -1,4 +1,4 @@
-# Project Name: AgeCalculatorV1
+# Project Name: Age in Minutes Calculator
 
 ## Description
 This project is part of my AP Computer Science A coursework.  
